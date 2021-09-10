@@ -4,5 +4,5 @@ An algorithm that is designed to **automatically generate astronomical observati
 
 ### Acknowledgement
 
-We would like to gratefully thank the researchers and students from the Shanghai Astronomical Observatory, CAS for helping us to organize our ideas and test our algorithms.
+We are deeply grateful to the researchers and students at the Shanghai Astronomical Observatory of the Chinese Academy of Sciences for their thoughtful discussions and work on testing the algorithm.
 
