@@ -20,6 +20,12 @@ For documentations, please see [documentation](#documentation).
 
 - [ ] The scoring function for the evaluation of the optimal arrangement should includes scoring of sources with force=1.
 - [ ] The telescope rotation speed can be configure in the observing parameter. 
+- [ ] Documentation translate
+  - [x] Preparation
+  - [x] Get Start
+  - [x] Commands
+  - [x] Tips & Tricks
+  - [ ] Appendix
 
 ## License
 
@@ -27,5 +33,5 @@ The MIT License is applied to this project, which means it is allow to use, copy
 
 ## Acknowledgement
 
-We are deeply grateful to the researchers and students at the Shanghai Astronomical Observatory of the Chinese Academy of Sciences for their thoughtful discussions and work on testing the algorithm.
+We are deeply grateful to the researchers and students at the Shanghai Astronomical Observatory of the Chinese Academy of Sciences for their thoughtful discussions and work on testing the algorithm. For more information, see [CONTRIBUTORS](https://github.com/xiawenke/AstroScheduller/blob/main/CONTRIBUTORS).
 
