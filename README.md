@@ -20,7 +20,7 @@ For documentations, please see [documentation](#documentation).
 
 - [ ] The scoring function for the evaluation of the optimal arrangement should includes scoring of sources with force=1.
 - [ ] The telescope rotation speed can be configure in the observing parameter. 
-- [ ] Documentation translate
+- [ ] Documentation translation (CHN -> ENG)
   - [x] Preparation
   - [x] Get Start
   - [x] Commands
