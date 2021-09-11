@@ -1,6 +1,6 @@
 ![astro_scheduller_logo](/Users/wenky/OneDrive - Franklin & Marshall College/SHAO/AstroScheduller/docs/src/astro_scheduller.jpg)
 
-# Tips and Tricks
+# Tips & Tricks
 
 ## Run the script in segments
 
