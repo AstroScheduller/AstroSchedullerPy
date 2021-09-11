@@ -6,6 +6,11 @@
 
 
 
+## To-do List
+
+- [ ] The scoring function for the evaluation of the optimal arrangement should includes scoring of sources with force=1.
+- [ ] The telescope rotation speed can be configure in the observing parameter. 
+
 ## Acknowledgement
 
 We are deeply grateful to the researchers and students at the Shanghai Astronomical Observatory of the Chinese Academy of Sciences for their thoughtful discussions and work on testing the algorithm.
