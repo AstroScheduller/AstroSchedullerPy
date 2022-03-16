@@ -4,6 +4,8 @@
 [![](https://img.shields.io/badge/python-%3E%3D%203.8-orange)](https://github.com/xiawenke/AstroScheduller/releases)
 [![](https://img.shields.io/badge/release-v2.1.3-informational)](https://github.com/xiawenke/AstroScheduller/releases)
 
+**Newer version of the AstroScheduller: https://github.com/xiawenke/AstroSchedullerGo**
+
 This is a project that trying to design a algorithm for generating astronomical observation plan. All of the code are written with Python and can be perfectly run in a default Anaconda Python 3.8 environment. 
 
 For documentations, please see [documentation](#documentation).
